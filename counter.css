@@ -1,0 +1,40 @@
+ #counter {
+
+                color:white;
+                position:relative;
+                width: 213px;
+                height: 112px;
+                margin: 0;
+                padding: 10px 10px 11px 8px;
+                background: url("http://toto.fonbet.com/img/banner_background.jpg") left top no-repeat;
+                background-size: cover;
+                box-sizing: border-box;
+                -moz-box-sizing: border-box;
+                -webkit-box-sizing: border-box;
+                border: 1px solid #000;
+                overflow: hidden;
+                cursor: pointer;
+                font-size: 12px;
+                font-family: Verdana,sans-serif;
+
+            }
+h1{
+    font-size: 20px;
+}
+        .summ {
+            font-weight: bold;
+            font-size: 20px;
+            margin: 0 0 15px;
+            }
+        .label {
+            
+/*            font-size: 12px;*/
+            }
+.down
+{
+    padding: 10px 10px 11px 8px;
+    color: #FFF;
+    opacity: .6;
+    background: none repeat scroll 0 0 #000;
+    
+}
